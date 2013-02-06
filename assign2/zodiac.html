@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Zodiac Sign Calculator</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: zodiac.html
+    Chapter: 5 
+    Assignment: 2 
+    Date: 02.05.13
+    !-->
+    
+    <link rel="stylesheet" href="css/zodiac.css">
+</head>
+<body>
+    <!-- membership.html -->
+    <form action="" method="post" id="theForm">
+        <fieldset><legend>Find Your Zodiac Sign</legend>
+            <p>Use this form to determine your zodiac sign. 
+			<div><label for="month">Month</label>
+			<select name="month" id="month">
+			    <option value="01">January</option>
+			    <option value="02">February</option>
+			    <option value="03">March</option>
+			    <option value="04">April</option>
+			    <option value="05">May</option>
+			    <option value="06">June</option>
+			    <option value="07">July</option>
+			    <option value="08">August</option>
+			    <option value="09">September</option>
+			    <option value="10">October</option>
+			    <option value="11">November</option>
+			    <option value="12">December</option>
+			</select></div>
+			<div><label for="birthyear">Year</label><input type="text" name="birthyear" id="birthyear" placeholder="1987"></div>
+			<div><label>Zodiac Sign:</label><div id="zodiacimg" name="zodiacimg"><img id="zodimgtag" class="zodiac-sign" src="./images/zodiac.jpg"></div></div>
+			<input type="submit" value="Calculate" id="submit">
+        </fieldset>
+    </form>
+    <script src="js/zodiac.js"></script>
+</body>
+</html>

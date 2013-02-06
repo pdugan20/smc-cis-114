@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patrick Dugan: Assignment 1: Shopping Calculator</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: shopping.html
+    Chapter: 4 
+    Assignment: 1 
+    Date: 01.27.13
+    !-->
+    
+</head>
+<body>
+    <!-- shopping.html -->
+    <form action="" method="post" id="theForm">
+        <fieldset>
+            <br>Use this form to calculate the order total.
+            <br><i>Please note that shipping costs are comprised of a single flat-rate.</i><p>
+			<div><label for="quantity">Quantity</label><input type="number" name="quantity" id="quantity" value="1" min="1" required></div>
+			<div><label for="price">Price Per Unit</label><input type="text" name="price" id="price" value="1.00" required></div>
+			<div><label for="tax">Tax Rate (%)</label><input type="text" name="tax" id="tax" value="0.0" required></div>
+			<div><label for="discount">Discount</label><input type="text" name="discount" id="discount" value="0.00" required></div>
+			<div><label for="shippingCost">Shipping Cost</label><input type="text" name="shippingCost" id="shippingCost" value="4.99" required></div>
+			<div><label for="total">Total</label><input type="text" name="total" id="total" value="0.00"></div>
+			<div><input type="submit" value="Calculate" id="submit"></div>
+        </fieldset>
+    </form>
+    <script src="js/shopping.js"></script>
+</body>
+</html>
