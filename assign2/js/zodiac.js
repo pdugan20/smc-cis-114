@@ -7,7 +7,7 @@
 
 // Function called when the form is submitted.
 // Function performs the calculation and returns false.
-function calculate() {
+function findSign() {
 
     // Reference zodiac img name
     var zodiacsign;
@@ -103,6 +103,6 @@ function calculate() {
 // Initial setup:
 function init() {
     'use strict';
-    document.getElementById('theForm').onsubmit = calculate;
+    document.getElementById('theForm').onsubmit = findSign;
 } // End of init() function.
 window.onload = init;
