@@ -12,6 +12,7 @@ function findSign() {
     // Reference zodiac img name
     var zodiacsign;
     var zodiacimgpath;
+    var modifiedYear;
 
     // Get a reference to the form elements:
 	var birthmonth = document.getElementById('month');
@@ -25,9 +26,12 @@ function findSign() {
     var zodimgtag = document.getElementById('zodimgtag');
     
     // Check for valid data: 
-	if (birthyear.value >= 1900) {
+	if (birthyear.value >= 1901) {
+		
+		// Subtract 1900 from actual year so that animals map correctly 
+		modifiedYear = (birthyear.value - 1900);
 	    
-	    var yearModValue = birthyear.value % 12;
+	    var yearModValue = modifiedYear % 12;
 	    // If birthmonth is Jan then change sign to following year
         if (birthmonth.value == '01') {
     		yearModValue -= 1;
