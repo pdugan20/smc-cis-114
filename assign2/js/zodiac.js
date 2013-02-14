@@ -24,6 +24,7 @@ function findSign() {
     // Get a reference to the zodiac image element
     var zodiacimg = document.getElementById('zodiacimg');
     var zodimgtag = document.getElementById('zodimgtag');
+    var zodnametag = document.getElementById('zodiacname');
     
     // Check for valid data: 
 	if (birthyear.value >= 1901) {
@@ -32,9 +33,15 @@ function findSign() {
 		modifiedYear = (birthyear.value - 1900);
 	    
 	    var yearModValue = modifiedYear % 12;
+	    
 	    // If birthmonth is Jan then change sign to following year
         if (birthmonth.value == '01') {
     		yearModValue -= 1;
+    	}
+    	
+    	// rollover all the way back to 11 since no -1 mapping
+    	if (yearModValue == -1) {
+    		yearModValue = 11;
     	}
 	    console.log('yearModValue: ' + yearModValue);
         
@@ -87,6 +94,10 @@ function findSign() {
         /* if (zodiacimg.textContent !== undefined) {
     		zodiacimg.innerHTML = '<img class="zodiac-sign" src="./images/' + zodiacsign + '.jpg">';
 		} */
+		
+		if (zodnametag.textContent !== undefined) {
+			zodnametag.innerText = (zodiacsign.charAt(0).toUpperCase() + zodiacsign.slice(1));
+		}
 		
 		zodiacimgpath = './images/' + zodiacsign + '.jpg';
 		console.log('zodiacimgpath: ' + zodiacimgpath);

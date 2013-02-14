@@ -1,25 +1,16 @@
 /*
-	Name: Patrick Dugan 
-    Course: CIS114 OL 
-    File Name: zodiac.css
-    Chapter: 5 
-    Assignment: 2 
-    Date: 02.05.13
+dark blue: 212B40
+gray-blue: 547B97
+gray-green-blue: BADCDD
+light-green: C2E078
 */
-
-span#cost-span {
-	margin-left:10px;
-}
-.zodiac-sign {
-	margin-left:10px;
-}
-span#zodiacname {
-	float:left;
-	font-size: 16px;
-	margin-left: 150px;
-	margin-top: 10px;
-	margin-bottom: 5px;
-}
+/*
+dark blue: 1B1D26
+dark green: 425955
+gray-green: 778C7A
+off-white: F1F2D8
+tan: BFBD9F
+*/
 
 body{
 font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
@@ -44,6 +35,9 @@ font-size:14px;
 font-weight:bold;
 margin-bottom:8px;
 }
+h2 {
+	clear: both;
+}
  p{
 font-size:11px;
 color:#666666;
@@ -57,7 +51,6 @@ font-weight:bold;
 text-align:right;
 width:140px;
 float:left;
-margin-top:5px;
 }
  .small{
 color:#666666;
@@ -86,7 +79,6 @@ margin:2px 0 20px 10px;
 #submit{
 clear:both;
 margin-left:150px;
-margin-top:10px;
 width:125px;
 height:31px;
 background:#F1F2D8;
@@ -95,4 +87,9 @@ line-height:20px;
 color:#000000;
 font-size:12px;
 font-weight:bold;
+}
+#output {
+	clear:both;
+	margin-bottom: 10px;
+	color: blue;
 }
