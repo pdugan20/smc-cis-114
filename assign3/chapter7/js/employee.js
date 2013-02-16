@@ -1,5 +1,9 @@
-// employee.js #2
-// This script creates an object using form data.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: employee.js
+// Chapter: 7 
+// Assignment: 3 
+// Date: 02.14.13
 
 // Function called when the form is submitted.
 // Function creates a new object.
@@ -7,9 +11,14 @@ function process() {
     'use strict';
 
     // Get form references:
-    var firstName = document.getElementById('firstName').value;
-    var lastName = document.getElementById('lastName').value;
-    var department = document.getElementById('department').value;
+    // var firstName = document.getElementById('firstName').value;
+    // var lastName = document.getElementById('lastName').value;
+    // var department = document.getElementById('department').value;
+    
+    // Calls the function instead
+    var firstName = $('firstName').value;
+    var lastName = $('lastName').value;
+    var department = $('department').value;
 
     // Reference to where the output goes:
     var output = document.getElementById('output');
@@ -37,6 +46,14 @@ function process() {
     return false;
     
 } // End of process() function.
+
+// Allows us to get references from the form elements
+function $(id) {
+		'use strict';
+    if (typeof id != 'undefined') {
+    		return document.getElementById(id);
+    }
+} // End of $ function.
 
 // Initial setup:
 function init() {

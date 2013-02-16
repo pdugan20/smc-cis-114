@@ -1,9 +1,11 @@
-// random.js #2
-// This script generates six random numbers.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: random.js
+// Chapter: 7 
+// Assignment: 3 
+// Date: 02.14.13
 
 // This function acts as a shortcut for document.getElementById().
-// It takes an id string as its lone argument.
-// It returns an element reference (i.e., an object).
 function $(id) {
     'use strict';
     if (typeof id != 'undefined') {
@@ -51,9 +53,12 @@ function showNumbers() {
 
     // Variable to store the lucky numbers:
     var numbers = '';
+    
+    // Assign a maxValue
+    var maxValue = 100;
 
     for (var i = 0; i < 6; i++) {
-        numbers += getRandomNumber(100) + ' ';
+        numbers += getRandomNumber(maxValue) + ' ';
     }
 
     // Show the numbers:

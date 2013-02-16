@@ -1,5 +1,9 @@
-// words.js
-// This script defines a function for sorting words in a case-insenstive manner.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: words.js
+// Chapter: 7 
+// Assignment: 3 
+// Date: 02.14.13
 
 // Shortcut function:
 function $(id) {
@@ -20,7 +24,7 @@ function setText(elementId, message) {
 		} else {
 			output.innerText = message;
 		}
-    } // End of main IF.
+    } // End of main IF.    
 } // End of setText() function.
 
 // This function sorts a list of words.
@@ -29,16 +33,22 @@ function sortWords(max) {
     'use strict';
 
     // Get the words:
-    var words = $('words').value;
+    var words = $('words').value.toLowerCase();
     
     // Convert the string to an array:
     words = words.split(' ');
     
-    // Sort the words:
-    var sorted = words.map(function(value) {
-        return value.toLowerCase();
-    }).sort();
-    
+    // Check if map exists
+    if(words.map) {
+    		console.log(words);
+    		// Sort the words:
+    		var sorted = words.map(function(value) {
+        		return value;
+    		}).sort();
+    		console.log(sorted);
+ 		} else {
+ 				var sorted = words.sort().toLowerCase();		
+ 		} 
     // Send the output to the page:
     setText('output', sorted.join(', '));
         
