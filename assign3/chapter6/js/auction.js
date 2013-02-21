@@ -11,9 +11,14 @@ function init() {
     'use strict';
     
     var today = new Date();
-    var endDate = new Date('20 Feb 2013 12:30:00 UTC');
+    var endDate = new Date('28 Feb 2013 12:30:00 UTC');
     var endDateLocal = endDate.toTimeString();
-    var timeRemaining = (today.getHours() - endDate.getHours());
+    var timeRemaining = (endDate - today);
+    
+    console.log('today: ' + today);
+    console.log('endDate: ' + endDate);
+    console.log('endDateLocal: ' + endDateLocal);
+    console.log('timeRemaining: ' + timeRemaining);
     
     var auctionLocalTime = document.getElementById('auction-end-local');
     var auctionUTCTime = document.getElementById('auction-end');
