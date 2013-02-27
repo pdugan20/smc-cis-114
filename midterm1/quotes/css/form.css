@@ -1,10 +1,11 @@
 /*
-	  Name: Patrick Dugan 
+	  Name: Patrick Dugan
+	  Email: patridugan@my.smccd.edu   
     Course: CIS114 OL 
     File Name: form.css
-    Chapter: 6 
-    Assignment: 3 
-    Date: 02.13.13
+    Chapter: 8 
+    Assignment: Midterm1 
+    Date: 02.22.13
 */
 
 body{
@@ -16,19 +17,21 @@ background-color: #f1f2d8;
 p, h1, form, button{border:0; margin:0; padding:0;}
 .spacer{clear:both; height:1px;}
 /* ----------- My Form ----------- */
-form{
-margin:0 auto;
-width:400px;
-padding:14px;
+div#quote-form {
+margin: 0 auto;
+width: 900px;
+padding: 14px;
 background-color: #ffffff;
-border:solid 2px #425955;
+border: solid 2px #425955;
 }
-
 /* ----------- stylized ----------- */
  h1 {
 font-size:14px;
 font-weight:bold;
 margin-bottom:8px;
+}
+h2 {
+	clear: both;
 }
  p{
 font-size:11px;
@@ -41,8 +44,9 @@ padding-bottom:10px;
 display:block;
 font-weight:bold;
 text-align:right;
-width:140px;
+width:100px;
 float:left;
+padding-top:5px;
 }
  .small{
 color:#666666;
@@ -65,12 +69,24 @@ float:left;
 font-size:12px;
 padding:4px 2px;
 border:solid 1px #BFBD9F;
-width:200px;
-margin:2px 0 20px 10px;
+width:420px;
+margin:2px 0 10px 10px;
 }
-#submit{
-clear:both;
-margin-left:150px;
+#addbutton{
+clear:left;
+margin-left:110px;
+width:125px;
+height:31px;
+background:#F1F2D8;
+text-align:center;
+line-height:20px;
+color:#000000;
+font-size:12px;
+font-weight:bold;
+}
+#deletebutton,#modifybutton{
+float:left;
+margin-left:25px;
 width:125px;
 height:31px;
 background:#F1F2D8;

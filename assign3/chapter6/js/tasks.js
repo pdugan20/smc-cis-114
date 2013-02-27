@@ -27,18 +27,22 @@ function addTask() {
     if (task.value) {
     
         // Add the item to the array:
-        tasks[tasks.length] = task;
+        tasks[tasks.length] = task.value;
         
         // Insert random task
-        var taskArray = ['Eat', 'Sleep', 'Play', 'Run', 'Swim'];
-				var randomNumber = Math.floor((Math.random()*4)+1);
-				var currentRandomTask = taskArray[randomNumber];
+        
+        // Use this for testing no longer needed
+        // var taskArray = ['Eat', 'Sleep', 'Play', 'Run', 'Swim'];
+				
+				var randomNumber = Math.floor((Math.random()*tasks.length));
+				var currentRandomTask = tasks[randomNumber];
 				randomTaskDiv.innerText = 'Current Random Task: ' + currentRandomTask;
 				
 				// Remove value after submission
 				task.value = "";
         
-        //console.log('randomNumber: ' + randomNumber);
+        console.log('randomNumber: ' + randomNumber);
+        console.log('tasks: ' + tasks);
         
         // Update the page:
         // New message with join()

@@ -21,7 +21,7 @@ function process() {
     var department = $('department').value;
 
     // Reference to where the output goes:
-    var output = document.getElementById('output');
+    var output = $('output');
 
     // Create a new object:
     var employee = {
@@ -58,6 +58,6 @@ function $(id) {
 // Initial setup:
 function init() {
     'use strict';
-    document.getElementById('theForm').onsubmit = process;
+    $('theForm').onsubmit = process;
 } // End of init() function.
 window.onload = init;

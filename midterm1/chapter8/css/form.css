@@ -1,15 +1,11 @@
 /*
-dark blue: 212B40
-gray-blue: 547B97
-gray-green-blue: BADCDD
-light-green: C2E078
-*/
-/*
-dark blue: 1B1D26
-dark green: 425955
-gray-green: 778C7A
-off-white: F1F2D8
-tan: BFBD9F
+	  Name: Patrick Dugan
+	  Email: patridugan@my.smccd.edu  
+    Course: CIS114 OL 
+    File Name: form.css
+    Chapter: 8 
+    Assignment: Midterm1 
+    Date: 02.22.13
 */
 
 body{
@@ -21,16 +17,16 @@ background-color: #f1f2d8;
 p, h1, form, button{border:0; margin:0; padding:0;}
 .spacer{clear:both; height:1px;}
 /* ----------- My Form ----------- */
-#area {
+form{
 margin:0 auto;
-width:700px;
+width:400px;
 padding:14px;
 background-color: #ffffff;
 border:solid 2px #425955;
 }
 
 /* ----------- stylized ----------- */
- h1, legend {
+ h1 {
 font-size:14px;
 font-weight:bold;
 margin-bottom:8px;
@@ -69,14 +65,13 @@ width:200px;
 margin:2px 0 20px 10px;
 }
  input{
-/*float:left;*/
+float:left;
 font-size:12px;
 padding:4px 2px;
 border:solid 1px #BFBD9F;
-width:500px;
+width:200px;
 margin:2px 0 20px 10px;
 }
-/*
 #submit{
 clear:both;
 margin-left:150px;
@@ -89,23 +84,8 @@ color:#000000;
 font-size:12px;
 font-weight:bold;
 }
-*/
-#delete, #add, #modify{
-/*clear:both;*/
-margin-left:30px;
-width:125px;
-height:31px;
-background:#F1F2D8;
-text-align:center;
-line-height:20px;
-color:#000000;
-font-size:12px;
-font-weight:bold;
-}
-
 #output {
 	clear:both;
-	font-size:14px;
 	margin-bottom: 10px;
 	color: blue;
 }
