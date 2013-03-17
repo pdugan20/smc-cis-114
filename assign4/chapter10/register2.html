@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patrick Dugan: Registration Form</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: register2.html
+    Chapter: 10 
+    Assignment: 4 
+    Date: 03.12.13
+    !-->
+    
+    <link rel="stylesheet" href="css/newform.css">
+</head>
+<body>
+    <!-- Script 10.6 - register.html -->
+    <form action="#" method="post" id="theForm">
+        <fieldset><legend>Register</legend>
+			<p>All fields are required.</p>
+			<div class="two"><label for="email">Email Address</label><input type="email" name="email" id="email" required></div>
+			
+			<div class="two"><label for="password">Password<span class="tooltip">Minimum of six characters, including at least one digit and one letter.</span></label>
+			<input type="password" name="password" id="password" required></div>
+			
+			<div class="two"><label for="firstName">First Name</label><input type="text" name="firstName" id="firstName" required></div>
+			<div class="two"><label for="lastName">Last Name</label><input type="text" name="lastName" id="lastName" required></div>
+			
+			<div class="two"><label for="phone">Phone Number<span class="tooltip">In the format XXX XXX XXXX or XXX-XXX-XXXX or XXXXXXXXXX.</span></label>
+			<input type="text" name="phone" id="phone" required></div>
+			
+			<div class="two"><label for="address">Address</label><input type="text" name="address" id="address" required></div>
+			<div class="two"><label for="city">City</label><input type="text" name="city" id="city" required></div>
+			<div class="two"><label for="state">State</label><select name="state" id="state">
+				<option value="">Select a State</option> 
+				<option value="AL">Alabama</option> 
+				<option value="AK">Alaska</option> 
+				<option value="AZ">Arizona</option> 
+				<option value="AR">Arkansas</option> 
+				<option value="CA">California</option> 
+				<option value="CO">Colorado</option>           
+			</select></div>    
+			<div class="two"><label for="zip">Zip Code</label><input type="text" name="zip" id="zip" required></div>
+			
+			<div class="two"><label for="creditcard">Credit Card</label>
+			<select name="creditcard" id="creditcard">
+  			<option value="Visa">Visa</option>
+  			<option value="Mastercard">Mastercard</option>
+			</select>
+			</div>
+			
+			<div class="two"><label for="ccnum">Credit Card Number<span class="tooltip">In the format XXXX XXXX XXXX XXXX or XXXX-XXXX-XXXX-XXXX or XXXXXXXXXXXXXXX.</span></label>
+			<input type="text" name="ccnum" id="ccnum" required></div>
+			
+			<div class="two"><label for="exp-date">Expiration Date<span class="tooltip">In the format MM/YYYY.</span></label>
+			<input type="text" name="exp-date" id="exp-date" required></div>
+			
+			<div class="one"><input type="checkbox" name="terms" id="terms" required> I agree to the terms, whatever they are.</div>
+			<div class="one"><input type="submit" value="Register" id="submit"></div>
+        </fieldset>
+    </form>
+    <script src="js/utilities.js"></script>
+    <script src="js/errorMessages.js"></script>
+    <script src="js/register2.js"></script>
+</body>
+</html>
