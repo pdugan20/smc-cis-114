@@ -35,7 +35,7 @@ function updateMenu(os, options) {
 } 
 
 // Establish functionality on window load:
-function createInitialMenu(os, options) {
+function createInitialMenu(os) {
     'use strict';
 
 	// Clear out the existing options:
@@ -85,11 +85,9 @@ function init() {
 		
 		// Figure out what os we are using
 		var os = document.getElementById('os');
-		// Set OS options
-		var options = ['Choose', 'Windows', 'Mac OS X'];
 		
 		// Create the primary menu
-		createInitialMenu(os, options);
+		createInitialMenu(os);
 		
 		// Create the sub menu
 		createSubMenu(os); 

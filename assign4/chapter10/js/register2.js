@@ -70,7 +70,7 @@ function validateForm(e) {
 	}
 	
 	// Validate the address:
-	if (/^[A-Z \.\-']{2,20}$/i.test(address.value)) {
+	if (/[0-9]+\s[A-Za-z0-9\s\-]{2,20}$/.test(address.value)) {
 		removeErrorMessage('address');
 	} else {
 		addErrorMessage('address', 'Please enter a valid address.');
@@ -133,11 +133,12 @@ function validateForm(e) {
 					}
 			} else {
 					addErrorMessage('exp-date', 'Please enter a valid expiration date.');
+					error = true;
 			}
 			
 	} else {
 			addErrorMessage('exp-date', 'Please enter a valid expiration date.');
-		error = true;
+			error = true;
 	}
   
   // If an error occurred, prevent the default behavior:
