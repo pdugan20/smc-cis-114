@@ -78,7 +78,7 @@ function validateForm(e) {
 	}
 	
 	// Validate the  city:
-	if (/^[A-Z \.\-']{2,20}$/i.test(city.value)) {
+	if (/^[a-zA-Z]+(?:[\s-][a-zA-Z]+)*$/.test(city.value)) {	
 		removeErrorMessage('city');
 	} else {
 		addErrorMessage('city', 'Please enter a valid city name.');
