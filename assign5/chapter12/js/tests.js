@@ -31,12 +31,12 @@ var myTests = function() {
 	
 	// Test that $() does X when arguments are incorrect
 	function testWrongArgumentsGetElement() {
-		// do something
+			jsUnity.assertions.assertTypeOf('object', U.$('output'));
 	}
 	
-	// Test that $() does X when no argumenst are provided
+	// Test that $() does X when no arguments are provided
 	function testNoArgumentsGetElement() {
-		// do something
+			jsUnity.assertions.assertNotUndefined(U.$('output'));
 	}
 	
 	// Test that setText() returns true when provided with a valid ID:
@@ -51,12 +51,12 @@ var myTests = function() {
 	
   // Test that setText() does X when arguments are incorrect
 	function testWrongArgumentsSetText() {
-		// do something
+			jsUnity.assertions.assertTypeOf('string', 'test');
 	}
 	
 	// Test that setText() does X when no argumenst are provided
 	function testNoArgumentsSetText() {
-		// do something
+			jsUnity.assertions.assertNotUndefined(U.setText('output', 'test'));
 	}
 	
 }; // End of myTests anonymous function.
