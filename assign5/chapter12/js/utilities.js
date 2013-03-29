@@ -1,5 +1,9 @@
-// Script 8.1 - utilities.js
-// This script defines an object that has some utilitarian functions.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: utilities.js
+// Chapter: 12 
+// Assignment: 5 
+// Date: 03.24.13
 
 var U = {
 

@@ -1,5 +1,9 @@
-// tasks.js #4
-// This script manages a to-do list.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: tasks.js
+// Chapter: 14 
+// Assignment: 5 
+// Date: 03.28.13
 
 // Function for creating Task objects.
 // Function takes two arguments: the task name and its priority.
@@ -20,9 +24,20 @@ function Task(name, priority) {
 	
 } // End of Task function.
 
+function ModifyDateObject() {
+		Date.prototype.getMonthName = function() {
+				var d = new Date();
+				var n = d.getMonth();
+				if (n == 2) {
+						var currentMonthName = 'March';
+				}
+				return currentMonthName;
+		}
+}
+
 // Function that sets up the work:
 window.onload = function(){
-    'use strict';
+	'use strict';
 
 	// Form references:
 	var task = document.getElementById('task');
@@ -34,20 +49,33 @@ window.onload = function(){
 
 	// Function called when the form is submitted.
 	// Function adds a task to the array.
+	
 	document.getElementById('theForm').onsubmit = function() {
-		
 		// Create a new Task:
 		var t = new Task(task.value, priority.value);
 
 		// Add it to the array:
 		tasks.push(t);
+    
+    output.innerHTML = '';
+		var message = 'There are now <b>' + tasks.length + '</b> item(s) in the to-do list. <br>Just added:<br>' + t.toString() + '<p>';
+    for (var i = 0, count = tasks.length; i < count; i++) {
+    		message += '<li>' + tasks[i] + '</li>';
+    }
+    message += '</ol>';
+    output.innerHTML = message;
+    
+    // Clear task afterward
+    task.value = '';
+    
+    // Modify date
+    ModifyDateObject();
+    var d = new Date();
+    var currentMonthName = d.getMonthName();
+    console.log(currentMonthName);
+        
+    // Return false to prevent submission:
+    return false;
+		};
 		
-		// Update the output:
-        output.innerHTML = 'There are now <b>' + tasks.length + '</b> item(s) in the to-do list. Just added:<br>' + t.toString();        
-
-	    // Return false to prevent submission:
-        return false;
-
-	}; // End of onsubmit anonymous function.
-
-}; // End of onload anonymous function.
+}; 

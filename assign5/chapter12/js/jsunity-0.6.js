@@ -1,5 +1,12 @@
 //<%
 /**
+ * Name: Patrick Dugan 
+ * Course: CIS114 OL 
+ * File Name: jsunity-0.6.js
+ * Chapter: 12 
+ * Assignment: 5 
+ * Date: 03.24.13
+ *
  * jsUnity Universal JavaScript Testing Framework v0.6
  * http://jsunity.com/
  *

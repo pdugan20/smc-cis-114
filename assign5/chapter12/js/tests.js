@@ -1,5 +1,14 @@
-// tests.js
-// This script runs some tests against the utilities library from Chapter 8.
+// Name: Patrick Dugan 
+// Course: CIS114 OL 
+// File Name: tests.js
+// Chapter: 12 
+// Assignment: 5 
+// Date: 03.24.13
+
+
+// Assignment 5
+// Add more tests to tests.js to check the results when no arguments, or the wrong type of arguments, are provided to the $() and setText() functions.
+
 
 // Define the tests:
 var myTests = function() {
@@ -15,6 +24,21 @@ var myTests = function() {
 		jsUnity.assertions.assertNull(U.$('doesNotExist'));
 	}
 	
+	// Test that $() returns a valid object
+	function testArgumentTypeGetElement() {
+		jsUnity.assertions.assertTypeOf('object', U.$('output'));
+	}
+	
+	// Test that $() does X when arguments are incorrect
+	function testWrongArgumentsGetElement() {
+		// do something
+	}
+	
+	// Test that $() does X when no argumenst are provided
+	function testNoArgumentsGetElement() {
+		// do something
+	}
+	
 	// Test that setText() returns true when provided with a valid ID:
 	function testSetText() {
 		jsUnity.assertions.assertTrue(U.setText('output', 'test'));
@@ -23,6 +47,16 @@ var myTests = function() {
 	// Test that setText() returns false when provided with an invalid ID:
 	function testCannotSetText() {
 		jsUnity.assertions.assertFalse(U.setText('doesNotExist', 'test'));
+	}
+	
+  // Test that setText() does X when arguments are incorrect
+	function testWrongArgumentsSetText() {
+		// do something
+	}
+	
+	// Test that setText() does X when no argumenst are provided
+	function testNoArgumentsSetText() {
+		// do something
 	}
 	
 }; // End of myTests anonymous function.

@@ -124,21 +124,13 @@ function validateForm(e) {
 			console.log('expMonth: ' + expMonth);
 			console.log('expYear: ' + expYear);
 			
-			if (expYear >= curYear) {
-					if (expMonth >= curMonth) {
-					
-							console.log('date passed validity checks');
-							removeErrorMessage('exp-date');
-					
-					}
+			if ((expYear >= curYear) || ((expYear == curYear) && (expMonth >= curMonth))) {
+					console.log('date passed validity checks');
+					removeErrorMessage('exp-date');
 			} else {
 					addErrorMessage('exp-date', 'Please enter a valid expiration date.');
 					error = true;
 			}
-			
-	} else {
-			addErrorMessage('exp-date', 'Please enter a valid expiration date.');
-			error = true;
 	}
   
   // If an error occurred, prevent the default behavior:
