@@ -1,0 +1,138 @@
+/*
+	Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: planets.css
+    Chapter: 14 
+    Assignment: midterm2 
+    Date: 04.08.13
+*/
+
+#planetimgtag {
+	margin-left:60px;
+}
+
+#galaxyimgtag {
+	margin-left:60px;
+}
+
+.planet-label {
+	margin-left:-45px;
+}
+
+span#cost-span {
+	margin-left:10px;
+}
+.planet-img {
+	margin-left:10px;
+}
+span#planet-name {
+	float:left;
+	font-size: 16px;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+span#planet-desc {
+	float:left;
+	font-size: 16px;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	clear:left;
+	font-size: 12px;
+	width:250px;
+}
+
+span#galaxy-name {
+	float:left;
+	font-size: 16px;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+span#galaxy-desc {
+	float:left;
+	font-size: 16px;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	clear:left;
+	font-size: 12px;
+	width:250px;
+}
+
+body{
+font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color: #1b1d26;
+background-color: #f1f2d8;
+}
+p, h1, form, button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+/* ----------- My Form ----------- */
+form{
+margin:0 auto;
+width:400px;
+padding:14px;
+background-color: #ffffff;
+border:solid 2px #425955;
+}
+
+/* ----------- stylized ----------- */
+ h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:8px;
+}
+ p{
+font-size:11px;
+color:#666666;
+margin-bottom:20px;
+border-bottom:solid 1px #BFBD9F;
+padding-bottom:10px;
+}
+ label{
+display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+margin-top:5px;
+}
+ .small{
+color:#666666;
+display:block;
+font-size:11px;
+font-weight:normal;
+text-align:right;
+width:140px;
+}
+ select{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #BFBD9F;
+width:200px;
+margin:2px 0 20px 10px;
+}
+ input{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #BFBD9F;
+width:200px;
+margin:2px 0 20px 10px;
+}
+#submit{
+clear:both;
+margin-left:150px;
+margin-top:10px;
+width:125px;
+height:31px;
+background:#F1F2D8;
+text-align:center;
+line-height:20px;
+color:#000000;
+font-size:12px;
+font-weight:bold;
+}

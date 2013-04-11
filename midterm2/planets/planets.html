@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patrick Dugan: Planets & Galaxies</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: planets.html
+    Chapter: 14 
+    Assignment: midterm2 
+    Date: 04.08.13
+    !-->
+    
+    <link rel="stylesheet" href="css/planets.css">
+</head>
+<body>
+
+    <!-- planets.html -->
+    <form action="" method="post" id="theForm">
+        <fieldset><legend>Planets & Galaxies</legend>
+            <p>Select a planet to see and image and a brief description!
+			
+			<div><label for="planet-selector" class="planet-label">Planets</label>
+			<select name="planet-selector" id="planet">
+					<option value="select">Select</option>
+			    <option value="mercury">Mercury</option>
+			    <option value="venus">Venus</option>
+			    <option value="earth">Earth</option>
+			    <option value="mars">Mars</option>
+			    <option value="jupiter">Jupiter</option>
+			    <option value="saturn">Saturn</option>
+			    <option value="uranus">Uranus</option>
+			    <option value="neptune">Neptune</option>
+			    <option value="pluto">Pluto</option>
+			    <option value="galaxies">Galaxies</option>
+			</select></div>
+			
+			<label for="galaxy-select" class="planet-label" id="galaxy-label"></label>
+			<div id="galaxy-select-div">
+			</div>
+			
+			<div><label></label>
+			
+			<!-- start planet related junk !-->
+			<div id="planetimg" name="planetimg"></div>
+			<span id="planet-name"></span>
+			<span id="planet-desc"></span>
+			<!-- end planet related junk !-->
+			
+			<!-- start galaxy related junk !-->
+			<div id="galaxyimg" name="galaxyimg"></div>
+			<span id="galaxy-name"></span>
+			<span id="galaxy-desc"></span>
+			<!-- end galaxy related junk !-->
+			
+			</div>
+      </fieldset>
+      
+    </form>
+    
+    <script src="js/planet-arrays.js"></script>
+    <script src="js/planets.js"></script>
+    
+</body>
+</html>

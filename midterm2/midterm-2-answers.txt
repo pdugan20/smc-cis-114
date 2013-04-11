@@ -1,0 +1,88 @@
+1. What is the topmost object when using JavaScript within the Web browser?
+window
+
+2. What is a closure? 
+A closure is a function call with a memory. In other words, a closure is a function tied to the scope in which it was created. This means that a closure function can make use of the variables that existed (in the same scope) when the function was created.
+What conditions would exist to create a closure? 
+The closure is created by defining another function within that outer onload function. All closures require that one function be defined within another. The inner function, which handles the form submission, will be called any number of times, but always after the outer function has finished executing.
+
+3. What is the regular expression that would match EVERY occurrence of "JavaScript" in a text string (ignoring case)?
+/javascript/i
+
+4. What is the same origin policy?  Explain in detail.
+The same origin policy in browsers is a security measure known as the “same origin policy.” The policy restricts what can be done based upon the origin of the resources involved. Code in one window or frame can only access JavaScript in another window or frame if both have the same origin.
+
+Give an example of two Web pages having the same origin (not from the book) and two Web pages that do not have the same origin (also not from the book).
+Same origin:
+http://www.espn.com/home.html
+http://www.espn.com/teams.html
+
+Different origin:
+http://www.espn.com 
+https://www.espn.com
+
+5. What is the difference between a session and a cookie?
+Sessions can only be accomplished using a server-side technology, as sessions store the data itself on the server. 
+Cookies, though, can be managed using a server-side technology or using JavaScript within the browser.
+Cookies are just a Post-It note of information, stored in the user’s browser, and associated with a particular Web site.
+
+6. Create a cookie named item with the value sofa that expires in 30 days. Do NOT use a function to create the cookie?
+var expDays = 30;
+var cookieName = 'item';
+var cookieValueStr = 'sofa';
+				
+var expDate = new Date();
+expDate.setDate(expDate.getDate() + expDays);
+
+var cookieValue = cookieName + "=" + cookieValueStr + 
+"; expires=" + expDate.toUTCString();
+document.cookie = cookieValue;
+
+7. What is the root prototype in JavaScript?
+JavaScript will stop looking through the prototype chain when it gets to the root prototype—that from which all other prototypes stem, which is Object.
+
+8. What are the two options for creating custom objects in JavaScript?
+There are two options for creating custom objects which you choose depends upon whether you need to create a single custom object or multiple instances of the same custom object.
+To create a single custom object, just create a new variable of type Object.
+The alternative way to create a custom object is to use a function as an object generator.
+
+9. What are namespaces and why are they useful?
+Namespaces are named realms for defining classes, libraries, and modules. Namespaces simply create a new local scope that keeps its code out of the global scope. Namespaces are useful once you begin creating libraries of code, as namespaces prevent conflicts.
+
+10. What is the difference between the setTimeout and setInterval methods for creating timers? 
+setTimeout() function, providing a function to be called as the first argument and a number of milliseconds as the second.
+setInterval() takes the same arguments but invokes the function repeatedly at every indicated interval.
+The setTimeout() function creates a one-time timer; setInterval() creates a recurring timer. 
+
+11. What is exception handling and how does it work?
+Exception handling uses try and catch statements to catch and handle errors.
+When an error occurs within the try block (the section between the curly braces), programming flow immediately moves to the catch block.
+If no errors occur within the try block, then the catch block will not be executed at all.
+
+12. What are the advantages of unit testing?
+The premise of unit testing is that you define tests to confirm that particular bits of code work as needed.
+As the scope of the application increases, and as you add and modify the code, you continue to write tests for the new code, while still checking all of the original code against the existing tests, too. By doing this, you ensure that the introduction of new and modified code doesn’t break something that was previously working. Moreover, unit testing will often improve the code you write from the get-go, as you’ll begin thinking in terms of all possibilities, not just the expected ones.
+
+13. What does it mean that JavaScript is a prototype-based OOP language?
+Defining javascript as prototype based means that the variables you create are derived from a predefined model, called a prototype, not a class definition. 
+This prototypical nature is true whether the prototype is built into JavaScript or defined by you.
+
+What is the prototype chain?
+Some variables will have a prototype that in turn has its own prototype. 
+For example, the e1 object is based upon the Employee prototype, which is based upon Object. This is known as the prototype chain.
+Example: var e1 = new Employee(‘Jane’, ‘Doe’, ‘Accounting’);
+
+14. What is progressive enhancement?  Give an example.
+Progressive enhancement is the process of creating basic, reliable functionality, and then enhancing that functionality on browsers that support the enhancement. 
+For example, the standard way to handle a form submission is to send the form data to a server-side resource.
+JavaScript, as already discussed, can accomplish the same thing using Ajax.
+Progressive enhancement says that you should implement the standard approach first, and then intercept that approach when possible.
+
+15. What are properties of a DOM node that contain information about the node?  
+Each node has properties providing information about the node itself:
+nodeName, nodeValue, and nodeType are properties of the DOM node.
+
+Give some examples of values that could be stored in these properties. 
+The nodeType property will be a number (Examples: 1 for an HTML element, 2 for text)
+nodeName is the HTML tag in all capital letters (Examples: DIV, BODY, SPAN)
+nodeValue is the content within the HTML tag. (Example: The value for this snippet <div>Hi there</div> would be 'Hi there')
