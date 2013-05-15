@@ -1,0 +1,17 @@
+[
+    {
+        "symb": "APPL",
+        "name": "Apple Inc",
+        "quote": "393.29"
+    },
+    {
+        "symb": "GOOG",
+        "name": "Google Inc",
+        "quote": "789.55"
+    },
+    {
+        "symb": "FB",
+        "name": "Facebook Inc",
+        "quote": "25.80"
+    }
+]

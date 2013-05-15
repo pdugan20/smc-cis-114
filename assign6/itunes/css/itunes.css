@@ -1,0 +1,32 @@
+/*
+		Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: itunes.css
+    Chapter: 13 
+    Assignment: 6 
+    Date: 04.19.13
+*/
+
+html { background-color:#eeeeee; }
+body {
+      background-color:#C0C0C0;
+      font-family:Tahoma,Arial,Helvetica,sans-serif;
+      font-size:12px;
+	 }
+h1   {
+      text-align:left;
+      font-size:1.5em;
+      font-weight:bold
+     }
+     
+.app-wrapper {
+	min-width:300px;
+	float:left;
+	border:2px dashed #006600; 
+	padding:15px;
+	background-color:#FFFFFF;
+}
+
+/* .mini-form {
+	max-width:300px;
+} */

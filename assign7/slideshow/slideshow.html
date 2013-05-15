@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Patrick Dugan: Slideshow</title>
+        
+        <!-- 
+    		Name: Patrick Dugan 
+    		Course: CIS114 OL 
+    		File Name: slideshow.html
+    		Chapter: 3 
+    		Assignment: 7 
+    		Date: 05.01.13
+    		!-->
+
+        <link rel="stylesheet" href="./css/slideshow.css" type="text/css" media="screen" />
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+				<script src="./js/responsiveslides.min.js"></script>
+				
+    </head>
+    
+    <body>
+        <div id="header">
+            <h1>Pdugan20's Instagram Slideshow</h1>
+        </div>
+        
+        <ul class="rslides">
+  				<li><img src="./images/01.png" alt="Image 1">
+  				<p class="caption">Caption 1</p>
+  				</li>
+  				<li><img src="./images/02.png" alt="Image 2">
+  				<p class="caption">Caption 2</p>
+  				</li>
+  				<li><img src="./images/03.png" alt="Image 3">
+  				<p class="caption">Caption 3</p>
+  				</li>
+  				<li><img src="./images/04.png" alt="Image 4">
+  				<p class="caption">Caption 4</p>
+  				</li>
+  				<li><img src="./images/05.png" alt="Image 5">
+  				<p class="caption">Caption 5</p>
+  				</li>
+  				<li><img src="./images/06.png" alt="Image 6">
+  				<p class="caption">Caption 6</p>
+  				</li>
+  				<li><img src="./images/07.png" alt="Image 7">
+  				<p class="caption">Caption 7</p>
+  				</li>
+  				<li><img src="./images/08.png" alt="Image 8">
+  				<p class="caption">Caption 8</p>
+  				</li>
+  				<li><img src="./images/09.png" alt="Image 9">
+  				<p class="caption">Caption 9</p>
+  				</li>
+  				<li><img src="./images/10.png" alt="Image 10">
+  				<p class="caption">Caption 10</p>
+  				</li>
+				</ul>
+    
+    </body>
+
+		<script>
+  		$(function() {
+    		$(".rslides").responsiveSlides({
+    		  auto:true,
+    		  pagination: true,
+        	nav: true,
+        	fade: 1000,
+    		});
+  		});
+		</script>
+
+</html>

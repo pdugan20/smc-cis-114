@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patrick Dugan: Countries</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: country2.html
+    Chapter: 13 
+    Assignment: 6 
+    Date: 04.19.13
+    !-->
+    
+	<link rel="stylesheet" href="css/clean.css">
+</head>
+<body>
+	<div class="yui3-skin-sam">
+		<label for="country">Country: </label>
+		<input type="text" name="country" id="country">
+	</div>
+<script src="http://yui.yahooapis.com/3.4.1/build/yui/yui-min.js"></script>	
+<script>
+YUI({skin: 'sam'}).use('autocomplete', 'autocomplete-filters', 'autocomplete-highlighters', function (Y) {
+	Y.on('domready', function() {
+	    Y.one('#country').plug(Y.Plugin.AutoComplete, {
+		    resultFilters    : 'phraseMatch',
+            resultHighlighter: 'phraseMatch',
+	        source: 'resources/countries.php?term={query}' //['foo', 'bar', 'baz']
+	    });
+	});
+});
+	</script>
+</body>
+</html>

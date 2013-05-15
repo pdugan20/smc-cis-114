@@ -1,0 +1,14 @@
+/*
+		Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: desktop.css
+    Chapter: 3 
+    Assignment: 7 
+    Date: 05.01.13
+*/
+
+body {
+    margin:0;
+    padding:0;
+    font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}

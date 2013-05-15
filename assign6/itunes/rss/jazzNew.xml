@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=12</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=11/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Jazz</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 19 Apr 2013 02:48:50 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2013-04-19T02:48:50-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Sammy Price and His Kay Cee Stompers: Mid Century Jazz - Sammy Price and His Kay Cee Stompers, Sammy Price, Vic Dickenson, Jonah Jones, Pete Brown, Milt Hinton &amp; Cozy Cole</title>
+    <link>https://itunes.apple.com/album/sammy-price-his-kay-cee-stompers/id630932089?uo=1&amp;v0=9988</link>
+    <description>Sammy Price and His Kay Cee Stompers: Mid Century Jazz by Sammy Price and His Kay Cee Stompers, Sammy Price, Vic Dickenson, Jonah Jones, Pete Brown, Milt Hinton &amp; Cozy Cole</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/sammy-price-his-kay-cee-stompers/id630932089?uo=1&v0=9988"><img border="0" src="http://a83.phobos.apple.com/us/r1000/092/Music2/v4/45/b7/fc/45b7fc10-190a-4984-9468-e62070d343f7/cd_sammy_price.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/sammy-price-his-kay-cee-stompers/id630932089?uo=1&v0=9988">Sammy Price and His Kay Cee Stompers: Mid Century Jazz</a></B><br>
+						<a href="https://itunes.apple.com/artist/cozy-cole/id1115718?uo=1&v0=9988">Sammy Price and His Kay Cee Stompers, Sammy Price, Vic Dickenson, Jonah Jones, Pete Brown, Milt Hinton &amp; Cozy Cole</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 3, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						7</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$6.93</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Global VIllage Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Sammy Price and His Kay Cee Stompers, Sammy Price, Vic Dickenson, Jonah Jones, Pete Brown, Milt Hinton &amp; Cozy Cole</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/cozy-cole/id1115718?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Sammy Price and His Kay Cee Stompers: Mid Century Jazz</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/sammy-price-his-kay-cee-stompers/id630932089?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$6.93</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a882.phobos.apple.com/us/r1000/092/Music2/v4/45/b7/fc/45b7fc10-190a-4984-9468-e62070d343f7/cd_sammy_price.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1858.phobos.apple.com/us/r1000/092/Music2/v4/45/b7/fc/45b7fc10-190a-4984-9468-e62070d343f7/cd_sammy_price.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a83.phobos.apple.com/us/r1000/092/Music2/v4/45/b7/fc/45b7fc10-190a-4984-9468-e62070d343f7/cd_sammy_price.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Global VIllage Music</itms:rights>
+    
+        <itms:releasedate>April 3, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Life Forum - Gerald Clayton</title>
+    <link>https://itunes.apple.com/album/life-forum/id623643813?uo=1&amp;v0=9988</link>
+    <description>Life Forum by Gerald Clayton</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/life-forum/id623643813?uo=1&v0=9988"><img border="0" src="http://a728.phobos.apple.com/us/r30/Music/v4/34/72/35/3472353e-f823-a88e-64b9-3aae8bb5b1a7/UMG_cvrart_00888072344273_01_RGB72_1500x1500_13CMGIM00046.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/life-forum/id623643813?uo=1&v0=9988">Life Forum</a></B><br>
+						<a href="https://itunes.apple.com/artist/gerald-clayton/id157000482?uo=1&v0=9988">Gerald Clayton</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Concord Music Group, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Gerald Clayton</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/gerald-clayton/id157000482?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Life Forum</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/life-forum/id623643813?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a263.phobos.apple.com/us/r30/Music/v4/34/72/35/3472353e-f823-a88e-64b9-3aae8bb5b1a7/UMG_cvrart_00888072344273_01_RGB72_1500x1500_13CMGIM00046.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1591.phobos.apple.com/us/r30/Music/v4/34/72/35/3472353e-f823-a88e-64b9-3aae8bb5b1a7/UMG_cvrart_00888072344273_01_RGB72_1500x1500_13CMGIM00046.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a728.phobos.apple.com/us/r30/Music/v4/34/72/35/3472353e-f823-a88e-64b9-3aae8bb5b1a7/UMG_cvrart_00888072344273_01_RGB72_1500x1500_13CMGIM00046.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Concord Music Group, Inc.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>What&#39;s Your Story - Kristin Korb</title>
+    <link>https://itunes.apple.com/album/whats-your-story/id628538063?uo=1&amp;v0=9988</link>
+    <description>What&#39;s Your Story by Kristin Korb</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/whats-your-story/id628538063?uo=1&v0=9988"><img border="0" src="http://a457.phobos.apple.com/us/r30/Music2/v4/13/09/2b/13092bb4-a353-0c44-fe73-a7599cb8b5f7/700261375120.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/whats-your-story/id628538063?uo=1&v0=9988">What's Your Story</a></B><br>
+						<a href="https://itunes.apple.com/artist/kristin-korb/id85824690?uo=1&v0=9988">Kristin Korb</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Kristin Korb</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Kristin Korb</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/kristin-korb/id85824690?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>What&#39;s Your Story</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/whats-your-story/id628538063?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1912.phobos.apple.com/us/r30/Music2/v4/13/09/2b/13092bb4-a353-0c44-fe73-a7599cb8b5f7/700261375120.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a888.phobos.apple.com/us/r30/Music2/v4/13/09/2b/13092bb4-a353-0c44-fe73-a7599cb8b5f7/700261375120.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a457.phobos.apple.com/us/r30/Music2/v4/13/09/2b/13092bb4-a353-0c44-fe73-a7599cb8b5f7/700261375120.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Kristin Korb</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Krush - Niacin</title>
+    <link>https://itunes.apple.com/album/krush/id626832219?uo=1&amp;v0=9988</link>
+    <description>Krush by Niacin</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/krush/id626832219?uo=1&v0=9988"><img border="0" src="http://a1159.phobos.apple.com/us/r30/Music/v4/93/35/bc/9335bca9-6862-b476-1185-0823b7c95506/886443865051.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/krush/id626832219?uo=1&v0=9988">Krush</a></B><br>
+						<a href="https://itunes.apple.com/artist/niacin/id3262497?uo=1&v0=9988">Niacin</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Prosthetic Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Niacin</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/niacin/id3262497?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Krush</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/krush/id626832219?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a550.phobos.apple.com/us/r30/Music/v4/93/35/bc/9335bca9-6862-b476-1185-0823b7c95506/886443865051.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1526.phobos.apple.com/us/r30/Music/v4/93/35/bc/9335bca9-6862-b476-1185-0823b7c95506/886443865051.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1159.phobos.apple.com/us/r30/Music/v4/93/35/bc/9335bca9-6862-b476-1185-0823b7c95506/886443865051.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Prosthetic Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Seems Like Forever - Dan Kennedy</title>
+    <link>https://itunes.apple.com/album/seems-like-forever/id628441392?uo=1&amp;v0=9988</link>
+    <description>Seems Like Forever by Dan Kennedy</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/seems-like-forever/id628441392?uo=1&v0=9988"><img border="0" src="http://a1943.phobos.apple.com/us/r30/Music2/v4/08/2a/31/082a3123-7844-02e2-6ce7-cbeeab74be48/825576214626.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/seems-like-forever/id628441392?uo=1&v0=9988">Seems Like Forever</a></B><br>
+						<a href="https://itunes.apple.com/artist/dan-kennedy/id263872879?mt=11&uo=1&v0=9988">Dan Kennedy</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						9</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$8.91</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Dan Kennedy</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Dan Kennedy</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/dan-kennedy/id263872879?mt=11&amp;uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Seems Like Forever</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/seems-like-forever/id628441392?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$8.91</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a326.phobos.apple.com/us/r30/Music2/v4/08/2a/31/082a3123-7844-02e2-6ce7-cbeeab74be48/825576214626.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1302.phobos.apple.com/us/r30/Music2/v4/08/2a/31/082a3123-7844-02e2-6ce7-cbeeab74be48/825576214626.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1943.phobos.apple.com/us/r30/Music2/v4/08/2a/31/082a3123-7844-02e2-6ce7-cbeeab74be48/825576214626.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Dan Kennedy</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Don&#39;t Cry For No Hipster - Ben Sidran</title>
+    <link>https://itunes.apple.com/album/dont-cry-for-no-hipster/id610269446?uo=1&amp;v0=9988</link>
+    <description>Don&#39;t Cry For No Hipster by Ben Sidran</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dont-cry-for-no-hipster/id610269446?uo=1&v0=9988"><img border="0" src="http://a748.phobos.apple.com/us/r30/Music2/v4/1b/a0/08/1ba00814-8197-93db-13c5-6ff9dc05ac7a/DCFNH_iTUNES_COVER.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dont-cry-for-no-hipster/id610269446?uo=1&v0=9988">Don't Cry For No Hipster</a></B><br>
+						<a href="https://itunes.apple.com/artist/ben-sidran/id3564964?uo=1&v0=9988">Ben Sidran</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Nardis Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Ben Sidran</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/ben-sidran/id3564964?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Don&#39;t Cry For No Hipster</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dont-cry-for-no-hipster/id610269446?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1019.phobos.apple.com/us/r30/Music2/v4/1b/a0/08/1ba00814-8197-93db-13c5-6ff9dc05ac7a/DCFNH_iTUNES_COVER.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a347.phobos.apple.com/us/r30/Music2/v4/1b/a0/08/1ba00814-8197-93db-13c5-6ff9dc05ac7a/DCFNH_iTUNES_COVER.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a748.phobos.apple.com/us/r30/Music2/v4/1b/a0/08/1ba00814-8197-93db-13c5-6ff9dc05ac7a/DCFNH_iTUNES_COVER.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Nardis Music</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>From Here I See - Ben Wolfe</title>
+    <link>https://itunes.apple.com/album/from-here-i-see/id616393359?uo=1&amp;v0=9988</link>
+    <description>From Here I See by Ben Wolfe</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/from-here-i-see/id616393359?uo=1&v0=9988"><img border="0" src="http://a1021.phobos.apple.com/us/r30/Music2/v4/d6/31/0c/d6310ce9-b828-e0a7-05fe-9094da9613d4/Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/from-here-i-see/id616393359?uo=1&v0=9988">From Here I See</a></B><br>
+						<a href="https://itunes.apple.com/artist/ben-wolfe/id21473828?uo=1&v0=9988">Ben Wolfe</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 MAXJAZZ</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Ben Wolfe</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/ben-wolfe/id21473828?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>From Here I See</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/from-here-i-see/id616393359?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a44.phobos.apple.com/us/r30/Music2/v4/d6/31/0c/d6310ce9-b828-e0a7-05fe-9094da9613d4/Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1020.phobos.apple.com/us/r30/Music2/v4/d6/31/0c/d6310ce9-b828-e0a7-05fe-9094da9613d4/Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1021.phobos.apple.com/us/r30/Music2/v4/d6/31/0c/d6310ce9-b828-e0a7-05fe-9094da9613d4/Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 MAXJAZZ</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Colonel &amp; the Governor - Tommy Emmanuel &amp; Martin Taylor</title>
+    <link>https://itunes.apple.com/album/the-colonel-the-governor/id601994844?uo=1&amp;v0=9988</link>
+    <description>The Colonel &amp; the Governor by Tommy Emmanuel &amp; Martin Taylor</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-colonel-the-governor/id601994844?uo=1&v0=9988"><img border="0" src="http://a1388.phobos.apple.com/us/r30/Music2/v4/dd/17/0a/dd170a39-d18e-a5f3-6f3b-5af85801b3a9/899653002307_Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-colonel-the-governor/id601994844?uo=1&v0=9988">The Colonel &amp; the Governor</a></B><br>
+						<a href="https://itunes.apple.com/artist/martin-taylor/id894533?uo=1&v0=9988">Tommy Emmanuel &amp; Martin Taylor</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ c Tommy Emmanuel &amp; Martin Taylor distributed by MesaBluemoon Recordings</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Tommy Emmanuel &amp; Martin Taylor</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/martin-taylor/id894533?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Colonel &amp; the Governor</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-colonel-the-governor/id601994844?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a779.phobos.apple.com/us/r30/Music2/v4/dd/17/0a/dd170a39-d18e-a5f3-6f3b-5af85801b3a9/899653002307_Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a107.phobos.apple.com/us/r30/Music2/v4/dd/17/0a/dd170a39-d18e-a5f3-6f3b-5af85801b3a9/899653002307_Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1388.phobos.apple.com/us/r30/Music2/v4/dd/17/0a/dd170a39-d18e-a5f3-6f3b-5af85801b3a9/899653002307_Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; c Tommy Emmanuel &amp; Martin Taylor distributed by MesaBluemoon Recordings</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Summer Rain - Jeanette Harris</title>
+    <link>https://itunes.apple.com/album/summer-rain/id624945525?uo=1&amp;v0=9988</link>
+    <description>Summer Rain by Jeanette Harris</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/summer-rain/id624945525?uo=1&v0=9988"><img border="0" src="http://a1011.phobos.apple.com/us/r30/Music2/v4/60/7f/0d/607f0d30-1614-43a9-c5d2-792f608731bc/713757217330.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/summer-rain/id624945525?uo=1&v0=9988">Summer Rain</a></B><br>
+						<a href="https://itunes.apple.com/artist/jeanette-harris/id216057158?uo=1&v0=9988">Jeanette Harris</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Jeanette Harris</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Jeanette Harris</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/jeanette-harris/id216057158?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Summer Rain</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/summer-rain/id624945525?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a434.phobos.apple.com/us/r30/Music2/v4/60/7f/0d/607f0d30-1614-43a9-c5d2-792f608731bc/713757217330.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1410.phobos.apple.com/us/r30/Music2/v4/60/7f/0d/607f0d30-1614-43a9-c5d2-792f608731bc/713757217330.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1011.phobos.apple.com/us/r30/Music2/v4/60/7f/0d/607f0d30-1614-43a9-c5d2-792f608731bc/713757217330.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Jeanette Harris</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Birds (feat. Ivo Neame, Jasper Høiby, Jim Hart &amp; Anton Eger) - Marius Neset</title>
+    <link>https://itunes.apple.com/album/birds-feat.-ivo-neame-jasper/id619351815?uo=1&amp;v0=9988</link>
+    <description>Birds (feat. Ivo Neame, Jasper Høiby, Jim Hart &amp; Anton Eger) by Marius Neset</description>
+    <pubDate>Fri, 19 Apr 2013 02:48:50 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/birds-feat.-ivo-neame-jasper/id619351815?uo=1&v0=9988"><img border="0" src="http://a657.phobos.apple.com/us/r30/Music2/v4/52/7c/cb/527ccb21-fafb-1baa-2980-a3f992fe137d/887845681492.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/birds-feat.-ivo-neame-jasper/id619351815?uo=1&v0=9988">Birds (feat. Ivo Neame, Jasper Høiby, Jim Hart &amp; Anton Eger)</a></B><br>
+						<a href="https://itunes.apple.com/artist/marius-neset/id427032084?uo=1&v0=9988">Marius Neset</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 1, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9988">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Edition Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9988">Jazz</category>
+    <itms:artist>Marius Neset</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/marius-neset/id427032084?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Birds (feat. Ivo Neame, Jasper Høiby, Jim Hart &amp; Anton Eger)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/birds-feat.-ivo-neame-jasper/id619351815?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a416.phobos.apple.com/us/r30/Music2/v4/52/7c/cb/527ccb21-fafb-1baa-2980-a3f992fe137d/887845681492.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1744.phobos.apple.com/us/r30/Music2/v4/52/7c/cb/527ccb21-fafb-1baa-2980-a3f992fe137d/887845681492.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a657.phobos.apple.com/us/r30/Music2/v4/52/7c/cb/527ccb21-fafb-1baa-2980-a3f992fe137d/887845681492.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Edition Records</itms:rights>
+    
+        <itms:releasedate>April 1, 2013</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

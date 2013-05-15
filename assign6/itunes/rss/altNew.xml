@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=21</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=20/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Alternative</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 19 Apr 2013 02:49:35 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2013-04-19T02:49:35-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Rkives - Rilo Kiley</title>
+    <link>https://itunes.apple.com/album/rkives/id599008619?uo=1&amp;v0=9988</link>
+    <description>Rkives by Rilo Kiley</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/rkives/id599008619?uo=1&v0=9988"><img border="0" src="http://a1485.phobos.apple.com/us/r1000/068/Music/v4/7d/f2/7d/7df27df5-2828-cedb-2300-fe13578dee82/634457430341.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/rkives/id599008619?uo=1&v0=9988">Rkives</a></B><br>
+						<a href="https://itunes.apple.com/artist/rilo-kiley/id5602901?uo=1&v0=9988">Rilo Kiley</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Little Record Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Rilo Kiley</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/rilo-kiley/id5602901?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Rkives</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/rkives/id599008619?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1724.phobos.apple.com/us/r1000/068/Music/v4/7d/f2/7d/7df27df5-2828-cedb-2300-fe13578dee82/634457430341.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1052.phobos.apple.com/us/r1000/068/Music/v4/7d/f2/7d/7df27df5-2828-cedb-2300-fe13578dee82/634457430341.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1485.phobos.apple.com/us/r1000/068/Music/v4/7d/f2/7d/7df27df5-2828-cedb-2300-fe13578dee82/634457430341.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Little Record Company</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Dear Miss Lonelyhearts - Cold War Kids</title>
+    <link>https://itunes.apple.com/album/dear-miss-lonelyhearts/id596030688?uo=1&amp;v0=9988</link>
+    <description>Dear Miss Lonelyhearts by Cold War Kids</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dear-miss-lonelyhearts/id596030688?uo=1&v0=9988"><img border="0" src="http://a1115.phobos.apple.com/us/r1000/116/Music/v4/3d/78/fc/3d78fc80-d25a-73a8-837a-539efca9a180/886443830325.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dear-miss-lonelyhearts/id596030688?uo=1&v0=9988">Dear Miss Lonelyhearts</a></B><br>
+						<a href="https://itunes.apple.com/artist/cold-war-kids/id196319371?uo=1&v0=9988">Cold War Kids</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Downtown Music, LLC.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Cold War Kids</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/cold-war-kids/id196319371?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Dear Miss Lonelyhearts</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dear-miss-lonelyhearts/id596030688?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a586.phobos.apple.com/us/r1000/116/Music/v4/3d/78/fc/3d78fc80-d25a-73a8-837a-539efca9a180/886443830325.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1562.phobos.apple.com/us/r1000/116/Music/v4/3d/78/fc/3d78fc80-d25a-73a8-837a-539efca9a180/886443830325.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1115.phobos.apple.com/us/r1000/116/Music/v4/3d/78/fc/3d78fc80-d25a-73a8-837a-539efca9a180/886443830325.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Downtown Music, LLC.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Falling - EP - Haim</title>
+    <link>https://itunes.apple.com/album/falling-ep/id630865830?uo=1&amp;v0=9988</link>
+    <description>Falling - EP by Haim</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/falling-ep/id630865830?uo=1&v0=9988"><img border="0" src="http://a358.phobos.apple.com/us/r1000/089/Music2/v4/bb/f1/63/bbf163a7-3c82-8766-a2c5-95669018eed5/886443944930.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/falling-ep/id630865830?uo=1&v0=9988">Falling - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/haim/id164483115?uo=1&v0=9988">Haim</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.36</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2012, 2013 Haim Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Haim</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/haim/id164483115?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Falling - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/falling-ep/id630865830?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.36</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a165.phobos.apple.com/us/r1000/089/Music2/v4/bb/f1/63/bbf163a7-3c82-8766-a2c5-95669018eed5/886443944930.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1141.phobos.apple.com/us/r1000/089/Music2/v4/bb/f1/63/bbf163a7-3c82-8766-a2c5-95669018eed5/886443944930.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a358.phobos.apple.com/us/r1000/089/Music2/v4/bb/f1/63/bbf163a7-3c82-8766-a2c5-95669018eed5/886443944930.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2012, 2013 Haim Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Johnny 99 - Single - Shovels &amp; Rope</title>
+    <link>https://itunes.apple.com/album/johnny-99-single/id630244628?uo=1&amp;v0=9988</link>
+    <description>Johnny 99 - Single by Shovels &amp; Rope</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/johnny-99-single/id630244628?uo=1&v0=9988"><img border="0" src="http://a471.phobos.apple.com/us/r30/Music/v4/c2/36/99/c236995a-e6a7-23c5-644b-bf9b22c8430b/ShovelsandRopeItunes1400x1400.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/johnny-99-single/id630244628?uo=1&v0=9988">Johnny 99 - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/shovels-rope/id524529368?uo=1&v0=9988">Shovels &amp; Rope</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.98</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Third Man Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Shovels &amp; Rope</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/shovels-rope/id524529368?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Johnny 99 - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/johnny-99-single/id630244628?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.98</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1334.phobos.apple.com/us/r30/Music/v4/c2/36/99/c236995a-e6a7-23c5-644b-bf9b22c8430b/ShovelsandRopeItunes1400x1400.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a310.phobos.apple.com/us/r30/Music/v4/c2/36/99/c236995a-e6a7-23c5-644b-bf9b22c8430b/ShovelsandRopeItunes1400x1400.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a471.phobos.apple.com/us/r30/Music/v4/c2/36/99/c236995a-e6a7-23c5-644b-bf9b22c8430b/ShovelsandRopeItunes1400x1400.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Third Man Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>You&#39;re All Going Under (feat. Jay Kill &amp; Dana Linn Bailey) - Single - Rob Bailey &amp; The Hustle Standard</title>
+    <link>https://itunes.apple.com/album/youre-all-going-under-feat./id628132167?uo=1&amp;v0=9988</link>
+    <description>You&#39;re All Going Under (feat. Jay Kill &amp; Dana Linn Bailey) - Single by Rob Bailey &amp; The Hustle Standard</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/youre-all-going-under-feat./id628132167?uo=1&v0=9988"><img border="0" src="http://a583.phobos.apple.com/us/r30/Music/v4/ec/9d/53/ec9d53e1-da65-3350-b234-2be9510ee1a6/859709837062_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/youre-all-going-under-feat./id628132167?uo=1&v0=9988">You're All Going Under (feat. Jay Kill &amp; Dana Linn Bailey) - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/rob-bailey/id28451788?uo=1&v0=9988">Rob Bailey &amp; The Hustle Standard</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 The Hustle Standard</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Rob Bailey &amp; The Hustle Standard</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/rob-bailey/id28451788?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>You&#39;re All Going Under (feat. Jay Kill &amp; Dana Linn Bailey) - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/youre-all-going-under-feat./id628132167?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a438.phobos.apple.com/us/r30/Music/v4/ec/9d/53/ec9d53e1-da65-3350-b234-2be9510ee1a6/859709837062_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1766.phobos.apple.com/us/r30/Music/v4/ec/9d/53/ec9d53e1-da65-3350-b234-2be9510ee1a6/859709837062_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a583.phobos.apple.com/us/r30/Music/v4/ec/9d/53/ec9d53e1-da65-3350-b234-2be9510ee1a6/859709837062_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 The Hustle Standard</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Migrant - The Dear Hunter</title>
+    <link>https://itunes.apple.com/album/migrant/id618602046?uo=1&amp;v0=9988</link>
+    <description>Migrant by The Dear Hunter</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/migrant/id618602046?uo=1&v0=9988"><img border="0" src="http://a1829.phobos.apple.com/us/r30/Music/v4/d7/83/4b/d7834b47-230f-d343-0d06-e489a6803c43/886443888500.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/migrant/id618602046?uo=1&v0=9988">Migrant</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-dear-hunter/id191858902?uo=1&v0=9988">The Dear Hunter</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$12.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Equal Vision Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Dear Hunter</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-dear-hunter/id191858902?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Migrant</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/migrant/id618602046?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$12.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a932.phobos.apple.com/us/r30/Music/v4/d7/83/4b/d7834b47-230f-d343-0d06-e489a6803c43/886443888500.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1908.phobos.apple.com/us/r30/Music/v4/d7/83/4b/d7834b47-230f-d343-0d06-e489a6803c43/886443888500.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1829.phobos.apple.com/us/r30/Music/v4/d7/83/4b/d7834b47-230f-d343-0d06-e489a6803c43/886443888500.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Equal Vision Records, Inc.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Gravel &amp; Wine - Gin Wigmore</title>
+    <link>https://itunes.apple.com/album/gravel-wine/id624682342?uo=1&amp;v0=9988</link>
+    <description>Gravel &amp; Wine by Gin Wigmore</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/gravel-wine/id624682342?uo=1&v0=9988"><img border="0" src="http://a535.phobos.apple.com/us/r1000/099/Music2/v4/6a/09/48/6a094880-2123-17b2-f624-6f12996a97fe/UMG_cvrart_00602537332588_01_RGB72_1500x1500_13UMGIM15050.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/gravel-wine/id624682342?uo=1&v0=9988">Gravel &amp; Wine</a></B><br>
+						<a href="https://itunes.apple.com/artist/gin-wigmore/id280322993?uo=1&v0=9988">Gin Wigmore</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Universal Music Australia Pty Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Gin Wigmore</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/gin-wigmore/id280322993?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Gravel &amp; Wine</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/gravel-wine/id624682342?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a678.phobos.apple.com/us/r1000/099/Music2/v4/6a/09/48/6a094880-2123-17b2-f624-6f12996a97fe/UMG_cvrart_00602537332588_01_RGB72_1500x1500_13UMGIM15050.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a6.phobos.apple.com/us/r1000/099/Music2/v4/6a/09/48/6a094880-2123-17b2-f624-6f12996a97fe/UMG_cvrart_00602537332588_01_RGB72_1500x1500_13UMGIM15050.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a535.phobos.apple.com/us/r1000/099/Music2/v4/6a/09/48/6a094880-2123-17b2-f624-6f12996a97fe/UMG_cvrart_00602537332588_01_RGB72_1500x1500_13UMGIM15050.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Universal Music Australia Pty Ltd.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Indigo Meadow - The Black Angels</title>
+    <link>https://itunes.apple.com/album/indigo-meadow/id606316916?uo=1&amp;v0=9988</link>
+    <description>Indigo Meadow by The Black Angels</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/indigo-meadow/id606316916?uo=1&v0=9988"><img border="0" src="http://a1046.phobos.apple.com/us/r1000/083/Music/v4/b3/9d/af/b39daf98-b601-0cda-ad23-5516283ddbfa/887845613363.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/indigo-meadow/id606316916?uo=1&v0=9988">Indigo Meadow</a></B><br>
+						<a href="https://itunes.apple.com/artist/the-black-angels/id100997965?uo=1&v0=9988">The Black Angels</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 The Black Angels under license to Blue Horizon Ventures</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>The Black Angels</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/the-black-angels/id100997965?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Indigo Meadow</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/indigo-meadow/id606316916?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a581.phobos.apple.com/us/r1000/083/Music/v4/b3/9d/af/b39daf98-b601-0cda-ad23-5516283ddbfa/887845613363.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1557.phobos.apple.com/us/r1000/083/Music/v4/b3/9d/af/b39daf98-b601-0cda-ad23-5516283ddbfa/887845613363.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1046.phobos.apple.com/us/r1000/083/Music/v4/b3/9d/af/b39daf98-b601-0cda-ad23-5516283ddbfa/887845613363.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 The Black Angels under license to Blue Horizon Ventures</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Dormarion (Bonus Track Version) - Telekinesis</title>
+    <link>https://itunes.apple.com/album/dormarion-bonus-track-version/id591493712?uo=1&amp;v0=9988</link>
+    <description>Dormarion (Bonus Track Version) by Telekinesis</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/dormarion-bonus-track-version/id591493712?uo=1&v0=9988"><img border="0" src="http://a151.phobos.apple.com/us/r30/Music/v4/79/42/cd/7942cd1e-e294-a347-86fc-e797b7938997/444_telekinesis_dormarion_2400px_mini.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/dormarion-bonus-track-version/id591493712?uo=1&v0=9988">Dormarion (Bonus Track Version)</a></B><br>
+						<a href="https://itunes.apple.com/artist/telekinesis/id309017061?uo=1&v0=9988">Telekinesis</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Merge Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Telekinesis</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/telekinesis/id309017061?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Dormarion (Bonus Track Version)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/dormarion-bonus-track-version/id591493712?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1542.phobos.apple.com/us/r30/Music/v4/79/42/cd/7942cd1e-e294-a347-86fc-e797b7938997/444_telekinesis_dormarion_2400px_mini.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a870.phobos.apple.com/us/r30/Music/v4/79/42/cd/7942cd1e-e294-a347-86fc-e797b7938997/444_telekinesis_dormarion_2400px_mini.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a151.phobos.apple.com/us/r30/Music/v4/79/42/cd/7942cd1e-e294-a347-86fc-e797b7938997/444_telekinesis_dormarion_2400px_mini.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Merge Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Music Is You: A Tribute to John Denver - Various Artists</title>
+    <link>https://itunes.apple.com/album/music-is-you-tribute-to-john/id616429872?uo=1&amp;v0=9988</link>
+    <description>The Music Is You: A Tribute to John Denver by Various Artists</description>
+    <pubDate>Fri, 19 Apr 2013 02:49:35 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/music-is-you-tribute-to-john/id616429872?uo=1&v0=9988"><img border="0" src="http://a1037.phobos.apple.com/us/r30/Music/v4/d5/2a/a1/d52aa1da-559c-9b3d-270b-9cdc5d9773ba/Cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/music-is-you-tribute-to-john/id616429872?uo=1&v0=9988">The Music Is You: A Tribute to John Denver</a></B><br>
+						<br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Rocky Mountain Merchandise LLC. under exclusive license to ATO Records, LLC.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>Various Artists</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>The Music Is You: A Tribute to John Denver</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/music-is-you-tribute-to-john/id616429872?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1868.phobos.apple.com/us/r30/Music/v4/d5/2a/a1/d52aa1da-559c-9b3d-270b-9cdc5d9773ba/Cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1196.phobos.apple.com/us/r30/Music/v4/d5/2a/a1/d52aa1da-559c-9b3d-270b-9cdc5d9773ba/Cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1037.phobos.apple.com/us/r30/Music/v4/d5/2a/a1/d52aa1da-559c-9b3d-270b-9cdc5d9773ba/Cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Rocky Mountain Merchandise LLC. under exclusive license to ATO Records, LLC.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

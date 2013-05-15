@@ -1,0 +1,52 @@
+<!doctype html>
+
+<!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: itunes.html
+    Chapter: 13 
+    Assignment: 6 
+    Date: 04.19.13
+!-->
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Patrick Dugan: iTunes Ajax Demo CIS 114</title>
+<link rel="stylesheet" href="css/itunes.css">
+
+</head>
+<body>
+
+<div class="app-wrapper">
+
+<h1>iTunes XML and Ajax Demo</h1>
+<hr> 
+
+<form class="mini-form">
+
+<p>Category:<br />
+<select id="choice" name="choice">
+    <option value="">Choose One</option>
+    <option value="rss/altNew.xml">New Alternative Releases</option>
+    <option value="rss/jazzNew.xml">New Jazz Releases</option>
+    <option value="rss/rockNew.xml">New Rock Releases</option>
+</select>
+</p>
+
+<p>Items:<br>
+<select size="10" id="topics" name="topics">
+    <option value="">Choose a Category First</option>
+</select>
+</p>
+
+</form>
+
+<div id="details"><span></span></div>
+</div>
+
+<script src="js/ajax.js"></script>
+<script src="js/itunes.js"></script>
+
+</body>
+</html>
