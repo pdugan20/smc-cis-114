@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<!-- 
+    		Name: Patrick Dugan 
+    		Course: CIS114 OL 
+    		File Name: stock.html
+    		Chapter: 7 
+    		Assignment: 8
+    		Date: 05.16.13
+!-->
+
+<html>
+    <head>
+        <title>Patrick Dugan: Stock</title>
+        <link type="text/css" rel="stylesheet" media="screen" href="jqtouch/jqtouch.css" />
+        <link type="text/css" rel="stylesheet" media="screen" href="themes/jqt/theme.css" />
+        <link type="text/css" rel="stylesheet" media="screen" href="./css/stock.css" />
+        <script type="text/javascript" src="jqtouch/jquery.js"></script>
+        <script type="text/javascript" src="jqtouch/jqtouch.js"></script>
+        <script type="text/javascript" src="./js/stock.js"></script>
+    </head>
+    <body>
+        <div id="home">
+            <div class="toolbar">
+                <h1>Stock Stuff</h1>
+            </div>
+            <ul class="edgetoedge">
+                <li class="arrow"><a href="#stockstuff">Stock Lookup</a></li>
+                <li class="arrow"><a href="#about">About Stock Stuff</a></li>
+            </ul>
+        </div>
+        <div id="about">
+            <div class="toolbar">
+                <h1>About Stock Stuff</h1>
+                <a class="button back" href="#">Back</a>
+            </div>
+            <div>
+                <p>Look up cool stocks and junk.</p>
+            </div>
+        </div>
+        <div id="stockstuff">
+            <div class="toolbar">
+                <h1>Stock Lookup</h1>
+                <a class="button back" href="#">Back</a>
+            </div>
+            <form method="post">
+                <ul class="rounded">
+                    <li><input type="text" placeholder="Stock Symbol (Ex. GOOG)" name="symbol" id="symbol" autocapitalize="off" autocorrect="off" autocomplete="off" /></li>
+                    <li><input type="submit" class="submit" name="action" value="Submit" /></li>
+                </ul>
+            </form>
+            <!-- stock lookup stuff here !-->
+            <div id="output"></div>
+        </div>
+        <div id="date">
+            <div class="toolbar">
+                <h1>Date</h1>
+                <a class="button back" href="#">Back</a>
+                <a class="button slideup" href="#createEntry">+</a>
+            </div>
+            <ul class="edgetoedge">
+                <li id="entryTemplate" class="entry" style="display:none">
+                    <span class="label">Label</span>
+                    <span class="calories">000</span>
+                    <span class="delete">Delete</span>
+                </li>
+            </ul>
+        </div>
+        <div id="createEntry">
+            <div class="toolbar">
+                <h1>New Entry</h1>
+                <a class="button cancel" href="#">Cancel</a>
+            </div>
+            <form method="post">
+                <ul class="rounded">
+                    <li><input type="text" placeholder="Food" name="food" id="food" autocapitalize="off" autocorrect="off" autocomplete="off" /></li>
+                    <li><input type="text" placeholder="Calories" name="calories" id="calories" autocapitalize="off" autocorrect="off" autocomplete="off" /></li>
+                    <li><input type="submit" class="submit" name="action" value="Save Entry" /></li>
+                </ul>
+            </form>
+        </div>
+		</body>
+</html>
