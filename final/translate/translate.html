@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patrick Dugan: Translate</title>
+    
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Patrick Dugan 
+    Course: CIS114 OL 
+    File Name: translate.html
+    Chapter: Final 
+    Assignment: Final 
+    Date: 05.23.13
+    !-->
+    
+    <link rel="stylesheet" href="css/form.css">
+</head>
+
+<body>
+    <div id="task-form">
+    	<form action="" method="post" id="theForm">
+        <fieldset>
+        	<legend>Translate</legend>
+            <p>Translate words and stuff yo.</p>	
+						<div>
+							<label for="english">Start with</label>
+							<input type="text" name="engPhrase" id="engPhrase" placeholder="English phrase" >
+						</div>			
+						<div>
+							<label for="language">End with</label>
+							<select name="transLang" id="transLang">
+			    			<option value="Spanish">Spanish</option>
+							</select>
+						</div>
+						<div id="output"></div>
+						<input type="submit" value="Translate" id="submitbutton">
+        	</fieldset>
+    		</form>
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://api.apertium.org/JSLibrary.js"></script>
+    <script src="js/translate.js"></script>
+</body>
+
+</html>
