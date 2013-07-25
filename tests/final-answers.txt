@@ -1,0 +1,136 @@
+1a. What is the Model-View-Controller (MVC) design pattern?
+In object-oriented programming development, model-view-controller (MVC) is the name of a methodology or design pattern for successfully and efficiently relating the user interface to underlying data models. The model-view-controller pattern proposes three main components or objects to be used in software development:
+A Model which represents the underlying, logical structure of data in a software application and the high-level class associated with it. This object model does not contain any information about the user interface.
+A View which is a collection of classes representing the elements in the user interface (all of the things the user can see and respond to on the screen, such as buttons, display boxes, and so forth)
+A Controller which represents the classes connecting the model and the view, and is used to communicate between classes in the model and view. 
+
+1b. What are the benefits of using it?
+Easier overall maintenance. When updates need to be made to the application it is very clear whether the changes are data-centric, meaning changes to models and possibly controllers, or merely visual, meaning changes to views.
+Decoupling models and views means that it is significantly more straight-forward to write unit tests for business logic
+Duplication of low-level model and controller code (i.e what you may have been using instead) is eliminated across the application
+Depending on the size of the application and separation of roles, this modularity allows developers responsible for core logic and developers working on the user-interfaces to work simultaneously
+
+2a. What is the difference between a GET and a POST request?
+GET - Requests data from a specified resource
+GET requests can be cached
+GET requests remain in the browser history
+GET requests can be bookmarked
+GET requests should never be used when dealing with sensitive data
+GET requests have length restrictions
+GET requests should be used only to retrieve data
+
+2b.
+POST - Submits data to be processed to a specified resource
+POST requests are never cached
+POST requests do not remain in the browser history
+POST requests cannot be bookmarked
+POST requests have no restrictions on data length
+
+3. How were you able to access cross-domain data in JavaScript in spite of the same-origin policy? 
+If you do want to request data from another server, you can forward your request. Your main site's server will be acting as a proxy. You will need to make an AJAX request to your own server, that server side code will then make a request to the other domain and then send the response to your script via the AJAX calls response. In the context of our class, we accomplished this using jQuery's ajax library.
+
+4a. What is the difference between XML and JSON?
+JSON, or JavaScript Object Notation, is a text-based open standard designed for human-readable data interchange. It is derived from the JavaScript scripting language for representing simple data structures and associative arrays, called objects. Despite its relationship to JavaScript, it is language-independent, with parsers available for many languages. The official Internet media type for JSON is application/json. The JSON filename extension is .json.
+
+Example:
+{
+"employees": [
+{ "firstName":"John" , "lastName":"Doe" }, 
+{ "firstName":"Anna" , "lastName":"Smith" }, 
+{ "firstName":"Peter" , "lastName":"Jones" }
+]
+}
+
+4b. Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+The design goals of XML emphasize simplicity, generality, and usability over the Internet. It is a textual data format with strong support via Unicode for the languages of the world. Although the design of XML focuses on documents, it is widely used for the representation of arbitrary data structures, for example in web services.
+
+Example:
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
+
+5. What is the difference between JSON and JSONP? 
+JSONP or JSON with padding is a communication technique used in JavaScript programs which run in Web browsers. It provides a method to request data from a server in a different domain, something prohibited by typical web browsers because of the same origin policy. The response to a JSONP request is not JSON and is not parsed as JSON; the returned payload can be any arbitrary JavaScript expression, and it does not need to include any JSON at all. But conventionally, it is a JavaScript fragment that invokes a function call on some JSON-formatted data.
+
+6. What does the JQuery ready method do?
+While JavaScript provides the load event for executing code when a page is rendered, this event does not get triggered until all assets such as images have been completely received. In most cases, the script can be run as soon as the DOM hierarchy has been fully constructed. The handler passed to .ready() is guaranteed to be executed after the DOM is ready, so this is usually the best place to attach all other event handlers and run other jQuery code. When using scripts that rely on the value of CSS style properties, it's important to reference external stylesheets or embed style elements before referencing the scripts. In cases where code relies on loaded assets (for example, if the dimensions of an image are required), the code should be placed in a handler for the load event instead. The .ready() method is generally incompatible with the <body onload=""> attribute. If load must be used, either do not use .ready() or use jQuery's .load() method to attach load event handlers to the window or to more specific items, like images.
+
+7. What is an XMLHttpRequest (XHR) object?  Does it work in all browsers? 
+All modern browsers support the XMLHttpRequest object (IE5 and IE6 use an ActiveXObject). The XMLHttpRequest object is used to exchange data with a server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
+
+8a. What programming language is used for iPhone native web apps?
+When developing natively for iOS, development is doing using objective-c.
+Building a web-app for iOS can be accomplished using jquery and html/css web standards.
+
+8b. What programming language is used for Android native web apps?
+When develiping natively for Android, development is doing using java.
+Building a web-app for Android can be accomplished using jquery and jqtouch in addition to html/css web stanrards.
+
+8c. What are the advantages of creating mobile web apps instead of native apps?
+Here are the cons of native app development:
+• You have to pay to become an Apple developer.
+• You are at the mercy of the Apple approval process.
+• You have to develop using Objective-C.
+• You have to develop on a Mac.
+• You can’t release bug fixes in a timely fashion.
+• The development cycle is slow, and the testing cycle is constrained by the App
+Store’s limitations.
+
+Here are the pros of web app development:
+• Web developers can use their current authoring tools.
+• You can use your current web design and development skills.
+• You are not limited to developing on the Mac OS.
+• Your app will run on any device that has a web browser.
+• You can fix bugs in real time.
+• The development cycle is fast.
+
+9a. How do desktop browsers interpret the viewport meta tag?
+They ignore it.
+
+9b. How do mobile browsers interpret it?
+The width property controls the size of the viewport. It can be set to a specific number of pixels like width=600 or to the special value device-width value which is the width of the screen in CSS pixels at a scale of 100%. (There are corresponding height and device-height values, which may be useful for pages with elements that change size or position based on the viewport height.)
+The initial-scale property controls the zoom level when the page is first loaded. The maximum-scale, minimum-scale, and user-scalable properties control how users are allowed to zoom the page in or out.
+
+10a. What kinds of data storage did you use for the kilo program?
+localstorage 
+
+10b. What data was stored on the client?
+sessionstorage
+
+11. What is the readyState property?  Describe the values it can have.
+The readyState property returns the (loading) status of the current document. This property returns one of four values:
+uninitialized - Has not started loading yet
+loading - Is loading
+interactive - Has loaded enough and the user can interact with it
+complete - Fully loaded
+
+12a. What is the XHR object's status property? 
+readyState	Holds the status of the XMLHttpRequest
+This can changes from 0 to 4: 
+0: request not initialized 
+1: server connection established
+2: request received 
+3: processing request 
+4: request finished and response is ready
+status Property
+This property holds the HTTP status codes from the server. The most popularly used status codes are
+200 - OK
+302 - Found
+403 - Forbidden
+404 - Not Found
+500 - Internal Server Error
+
+12b. Which codes stored in the status property would indicate a problem?
+404, 403, 500
+
+13a. What does Ajax mean?
+Ajax is a group of interrelated web development techniques used on the client-side to create asynchronous web applications. With Ajax, web applications can send data to, and retrieve data from, a server asynchronously (in the background) without interfering with the display and behavior of the existing page. Data can be retrieved using the XMLHttpRequest object. Despite the name, the use of XML is not required (JSON is often used instead), and the requests do not need to be asynchronous.
+
+13b. Who coined the term Ajax?
+Jesse James Garrett
+
+14. Who is Douglas Crockford and why is he important?
+Douglas Crockford is an American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON (JavaScript Object Notation), and for developing various JavaScript related tools such as JSLint and JSMin. He is currently a senior JavaScript architect at PayPal, and is also a writer and speaker on JavaScript, JSON, and related web technologies such as the Yahoo! User Interface Library (YUI).
